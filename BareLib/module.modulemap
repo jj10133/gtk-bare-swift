@@ -1,0 +1,4 @@
+module BareModule [system] {
+    header "include/bare.h"
+    export *
+}
