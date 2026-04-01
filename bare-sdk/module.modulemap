@@ -1,0 +1,5 @@
+module BareSDK [system] {
+    header "include/worklet.h"
+    header "include/ipc.h"
+    export *
+}
